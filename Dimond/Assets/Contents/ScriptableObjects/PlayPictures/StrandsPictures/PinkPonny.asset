@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: PinkPonny
+  m_EditorClassIdentifier: 
+  pictureId: 2
+  material: 1
+  canChangeBackground: 0
+  picturePlayObject: {fileID: 1227368976401376, guid: c72ab05466d1a424d9cceafccd294068,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: c82421b32b0274ba897fe399b09f1297, type: 2}
+  - {fileID: 11400000, guid: bedbce92525f04f18bc22a9a0163e685, type: 2}
+  - {fileID: 11400000, guid: 1c0a941aa1f924981af949e030d28360, type: 2}
+  - {fileID: 11400000, guid: 78eca2953fed44c39b1ed7657234741f, type: 2}
+  - {fileID: 11400000, guid: 1009b16d1ddcc46b0acfb2e5d77508bd, type: 2}
+  - {fileID: 11400000, guid: 62be380cc8b3b464787b31e37bbf33d2, type: 2}
+  - {fileID: 11400000, guid: 2e3ac319ab1e0484fade61f4c702dd30, type: 2}
+  - {fileID: 11400000, guid: e602e51d88d954db585d420222b4d2c0, type: 2}
+  - {fileID: 11400000, guid: 1c349e71979b34eb59ae46ab5cecdb7d, type: 2}
+  - {fileID: 11400000, guid: 59764f1ae348a449a8908eae1a867df6, type: 2}
+  - {fileID: 11400000, guid: 3187b2755690249eb8694bc2091e8452, type: 2}
+  - {fileID: 11400000, guid: 372b0289bdc8c440b8490169027c90b4, type: 2}
+  - {fileID: 11400000, guid: b01ec67c1fd2c45d69aab671e559666c, type: 2}
+  - {fileID: 11400000, guid: cecdf7ca59d3547ab96f731c39d9ddc4, type: 2}
+  - {fileID: 11400000, guid: de943190ed6ec4a8e95cb9d9212da4ef, type: 2}
+  - {fileID: 11400000, guid: 3ea53b0ce48bf46c0834a6c93f4b450c, type: 2}
+  - {fileID: 11400000, guid: 1ea040e5819ab4c968a739b218caa6b6, type: 2}
+  - {fileID: 11400000, guid: 6a3328d203d454e6cbaca3208fe8509c, type: 2}
+  - {fileID: 11400000, guid: b2287de1c58d2408cb670312fc4930ff, type: 2}
+  - {fileID: 11400000, guid: 4fac344c1bdca42e4bd20fc983559b12, type: 2}
+  - {fileID: 11400000, guid: 5063c1ab743ba4dbeaf2aa61628b9480, type: 2}
+  - {fileID: 11400000, guid: c632fd8bdde7d4974a20402ab4fb3422, type: 2}
+  - {fileID: 11400000, guid: a6e13f8a98b5c41f2bffb5c1ad421d82, type: 2}
+  - {fileID: 11400000, guid: cc9755b28dffe4760a4e25349848c36f, type: 2}
+  - {fileID: 11400000, guid: b2317ce0615e4459881dd2e950ce9c97, type: 2}
+  - {fileID: 11400000, guid: e8636503992fc4cb093579139435a423, type: 2}
+  - {fileID: 11400000, guid: a69c43da8b570438d8f9433420d70740, type: 2}
+  - {fileID: 11400000, guid: 5c2d7bc32d1594707a50195c574801c4, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: a4812ee3dde2345e7b897321a7ef23da, type: 2}

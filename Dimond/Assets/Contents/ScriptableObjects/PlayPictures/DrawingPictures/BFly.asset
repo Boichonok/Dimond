@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: BFly
+  m_EditorClassIdentifier: 
+  pictureId: 3
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1349236356712190, guid: 453adb9b379d4497a9ff4c110d5238ae,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 8af59fe106d0849db9b7b18e446dc2a4, type: 2}
+  - {fileID: 11400000, guid: 29f225362ad1541a2a5d5728d062598e, type: 2}
+  - {fileID: 11400000, guid: 3fc5f00b64c954fadbdcdc9d4dd826cf, type: 2}
+  - {fileID: 11400000, guid: 79b6f638fa6434c77b910cd4cc085504, type: 2}
+  - {fileID: 11400000, guid: 7ba0306fc48294c4db0326a4ccca5090, type: 2}
+  - {fileID: 11400000, guid: 5cd1c30ecbc4c4a998fbf291d2888163, type: 2}
+  - {fileID: 11400000, guid: f7e2a2a8aaa3f40f08ca6a0431566241, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

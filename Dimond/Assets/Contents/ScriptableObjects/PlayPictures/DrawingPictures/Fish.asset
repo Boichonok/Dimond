@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  pictureId: 6
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1631111895466450, guid: b289bd251c2574397bf2f9fab32544b6,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 4ec69209b3a8c4711afafe081d4a3fa9, type: 2}
+  - {fileID: 11400000, guid: 85a5e8df67ad54db9bf23114a48643f7, type: 2}
+  - {fileID: 11400000, guid: 6e398f6f7cdc54fbc85c902137e0a989, type: 2}
+  - {fileID: 11400000, guid: 9b528ce252df841eabc46c2a4800c48b, type: 2}
+  - {fileID: 11400000, guid: fa836765f3726492b81eb63b91bcd3c9, type: 2}
+  - {fileID: 11400000, guid: 1e8640fd25c494878a35bd85f7fd2d2a, type: 2}
+  - {fileID: 11400000, guid: 7395013a03ee246cd924c4f04616f2c2, type: 2}
+  - {fileID: 11400000, guid: c3f4cebb72df34fac8efe05db78c7a48, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

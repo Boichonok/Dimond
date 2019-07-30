@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Flower
+  m_EditorClassIdentifier: 
+  pictureId: 1
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1984215333327430, guid: b910b90106dd14dd8ae97a95d341ee1d,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 4b030820140f3488faa3001af149f029, type: 2}
+  - {fileID: 11400000, guid: 574a099aef2de4d0681cb83b83395538, type: 2}
+  - {fileID: 11400000, guid: c0d4156355b9344459e2588605e5df5c, type: 2}
+  - {fileID: 11400000, guid: 46feb1f25db3045d0a8ee0b22cbcd39f, type: 2}
+  - {fileID: 11400000, guid: 7c2bc55e31fac4d1ea2a223126cf34e9, type: 2}
+  - {fileID: 11400000, guid: bc70c49ff49b44c90891ee6b9694ac1b, type: 2}
+  - {fileID: 11400000, guid: 6614cd8858b254dfcb853c0e849be0ce, type: 2}
+  - {fileID: 11400000, guid: 42c819f47fbc04f2d841e50daf994fc5, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

@@ -1,0 +1,1 @@
+{"CoinsCount":940,"isFirstStartApp":false,"isAdvicersActive":true}

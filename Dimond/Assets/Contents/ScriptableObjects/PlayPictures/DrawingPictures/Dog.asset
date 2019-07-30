@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Dog
+  m_EditorClassIdentifier: 
+  pictureId: 5
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1258091876191162, guid: b01a625768b60454db9e4c5134491657,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: f058c7c26e41141b49295d5090d0feb2, type: 2}
+  - {fileID: 11400000, guid: 94fa33fffb3714a71ad4dc92bc6d92f4, type: 2}
+  - {fileID: 11400000, guid: 95ced73745cb84f5f9d736a82284cce6, type: 2}
+  - {fileID: 11400000, guid: 8394a84c265d044708e1f7e7eea0042f, type: 2}
+  - {fileID: 11400000, guid: e738dd228065c46299c6caf66a63ea09, type: 2}
+  - {fileID: 11400000, guid: e2bda2c2ed8cb48d3ad63f661f190558, type: 2}
+  - {fileID: 11400000, guid: 1f6d7381634074acbad13d6486e833d6, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  pictureId: 9
+  material: 0
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1260633572225608, guid: b1dadd681a84b414fbbe9112bcfb03dc,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: c574517a5d1504b2bbbe14e5ffb11892, type: 2}
+  - {fileID: 11400000, guid: 5144977aa6f0c4ec894ad955c816b8bd, type: 2}
+  - {fileID: 11400000, guid: e4aee2c7e237a434195c29ec8ffd35d3, type: 2}
+  - {fileID: 11400000, guid: 71ce682cf11664f029054c8978ae5e0c, type: 2}
+  - {fileID: 11400000, guid: 50f95cef2f89e4202947642df6375661, type: 2}
+  - {fileID: 11400000, guid: 7e2690361d0b24957aef93240dec4a5b, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: d6da00963c4cc4850b57121b4a2267a5, type: 2}
+  - {fileID: 11400000, guid: 39a36171c0f234f59a7166719e6517c3, type: 2}
+  - {fileID: 11400000, guid: 0fe9f8f21668f4e8595afd1969f22cb8, type: 2}
+  - {fileID: 11400000, guid: aef3b865ecb9e47169db6092b2d102a8, type: 2}
+  - {fileID: 11400000, guid: 985ff086a06bd4b64a3886bdd52b78b0, type: 2}
+  - {fileID: 11400000, guid: 62294a46ab68e483a994c589f2e583a7, type: 2}
+  - {fileID: 11400000, guid: 2357c8bccbab34305a8c5a80797ac224, type: 2}
+  - {fileID: 11400000, guid: f57c75a91c98e46ea9de41b283184938, type: 2}
+  - {fileID: 11400000, guid: b3f1164e333104770b2407d660d0cf16, type: 2}
+  - {fileID: 11400000, guid: bfd213f4a99564b438ce3ccebf2830cd, type: 2}

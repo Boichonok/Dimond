@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Hare
+  m_EditorClassIdentifier: 
+  pictureId: 8
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1828486462457222, guid: 271ff69e3191141f888e9141cfa036cb,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 09f6e22ff7f1f48aba5abd3920759a7f, type: 2}
+  - {fileID: 11400000, guid: a741a4678be93488bbe9bab6c9a19259, type: 2}
+  - {fileID: 11400000, guid: b402aa12e8d48499c831939a2608f3da, type: 2}
+  - {fileID: 11400000, guid: fc91edf1d10a043bdb52adc9a5697eb7, type: 2}
+  - {fileID: 11400000, guid: 31b53a952f7324996a48e302d19a8738, type: 2}
+  - {fileID: 11400000, guid: 241d089fd02724e9284a3c34b40a432f, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

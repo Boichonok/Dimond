@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Hurt
+  m_EditorClassIdentifier: 
+  pictureId: 0
+  material: 1
+  canChangeBackground: 0
+  picturePlayObject: {fileID: 0}
+  amountSectionsType:
+  - {fileID: 11400000, guid: bdf2300dc755f47b2ab847513a6060dc, type: 2}
+  - {fileID: 11400000, guid: 98f2a7578fa8a4d1a922ab73b53d0961, type: 2}
+  - {fileID: 11400000, guid: c27110126ceda4fa9bd27ac6ac1b4948, type: 2}
+  - {fileID: 11400000, guid: 5acf10466d46b46fda32360adfb750e4, type: 2}
+  - {fileID: 11400000, guid: 7b0b8aa38ea884bd2b5fdf3e21d8ff2d, type: 2}
+  - {fileID: 11400000, guid: bf89291d2687f49039c4ded9b7f39c93, type: 2}
+  - {fileID: 11400000, guid: 3a6deaf529bac4be68754a5ca58cc92d, type: 2}
+  - {fileID: 11400000, guid: 91ef45c922c2e414c8d19a0dbc123ac9, type: 2}
+  - {fileID: 11400000, guid: 78df5b5077f9c4d69b5a2433c746ab19, type: 2}
+  - {fileID: 11400000, guid: f815948549b6e4a93ae45999eca1a0c2, type: 2}
+  - {fileID: 11400000, guid: d01374c45d379467fa20a582563aa7f6, type: 2}
+  - {fileID: 11400000, guid: 651b51b98208947f8ad09a3e1c58e7c3, type: 2}
+  - {fileID: 11400000, guid: 17537255f4d16423c86045e0d63f2a96, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: a4812ee3dde2345e7b897321a7ef23da, type: 2}

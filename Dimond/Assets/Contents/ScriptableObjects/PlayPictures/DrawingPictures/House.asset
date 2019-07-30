@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: House
+  m_EditorClassIdentifier: 
+  pictureId: 9
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1260633572225608, guid: b1dadd681a84b414fbbe9112bcfb03dc,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: c574517a5d1504b2bbbe14e5ffb11892, type: 2}
+  - {fileID: 11400000, guid: 5144977aa6f0c4ec894ad955c816b8bd, type: 2}
+  - {fileID: 11400000, guid: e4aee2c7e237a434195c29ec8ffd35d3, type: 2}
+  - {fileID: 11400000, guid: 71ce682cf11664f029054c8978ae5e0c, type: 2}
+  - {fileID: 11400000, guid: 50f95cef2f89e4202947642df6375661, type: 2}
+  - {fileID: 11400000, guid: 7e2690361d0b24957aef93240dec4a5b, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

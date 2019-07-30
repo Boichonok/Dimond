@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - menu_buttons_list
+  - exite_button
+  - gallery_button
+  - yovo_button
+  - rating_button
+  - noads_button
+  - scroll_list_row
+  - scroll_list_container
+  - picture
+  - buy_button
+  - reset_button
+  - choose_picture_activity
+  - choose_material_activity
+  - brush
+  - scroll_list_col
+  - button_brushs
+  - section_list_container
+  - brushes_list_container
+  - play_picture_section
+  - button_number
+  - colors_button
+  - strands_button
+  - stones_button
+  - section_6_item
+  - playPictureCamera
+  - playing_fild_activity
+  - gallery_activity
+  - choose_bg_button
+  - viber_button
+  - facebook_button
+  - instagramm_button
+  - next_advice_button
+  - skip_advice_button
+  - start_roulette
+  - bonus_x4
+  - bonus_x3
+  - bonus_dimond
+  - bonus_coloring
+  - bonus_strands
+  - bonus_picture
+  - ok_dialog_button
+  - roulette_activity
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

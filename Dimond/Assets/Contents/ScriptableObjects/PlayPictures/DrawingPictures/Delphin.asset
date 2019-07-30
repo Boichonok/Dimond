@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Delphin
+  m_EditorClassIdentifier: 
+  pictureId: 4
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1950830856032502, guid: 78d29d7d4daee47b2b8ea808806ceef3,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 1deb7997bd9164c779b591d06e998a6f, type: 2}
+  - {fileID: 11400000, guid: 1377a228273fd4d0fb7465cff74808a8, type: 2}
+  - {fileID: 11400000, guid: d968d6fb7430c401d8716c14809d88f9, type: 2}
+  - {fileID: 11400000, guid: dba884d24b46e4f87b9c512a4f6ade3b, type: 2}
+  - {fileID: 11400000, guid: 7bf6fe94bf11e4713955bba6516a3e79, type: 2}
+  - {fileID: 11400000, guid: ec1287a4caba34d67b83478070742ca4, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

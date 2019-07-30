@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: PinkPonny
+  m_EditorClassIdentifier: 
+  pictureId: 2
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1603745088281590, guid: f16bf23a00730477e8fd896f168ba8fc,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: fcf69837430284e8f8523ea4f0eccaf0, type: 2}
+  - {fileID: 11400000, guid: 0756fbdb4dd324d8eb89246c60a13a8b, type: 2}
+  - {fileID: 11400000, guid: 6cfb736e057a1455c97e5e18230b77ec, type: 2}
+  - {fileID: 11400000, guid: 4ab9ebeac7412478ba0651a833c36997, type: 2}
+  - {fileID: 11400000, guid: a073219070ac64fbdb119e2f6d92af4f, type: 2}
+  - {fileID: 11400000, guid: 18e3a205ddf6e43638f8ffd6d8d58581, type: 2}
+  - {fileID: 11400000, guid: debf0de0fa25f436fac31d7b0a1bd3a1, type: 2}
+  - {fileID: 11400000, guid: 396eb9c9a59c143e0ab6315bd914b2d8, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

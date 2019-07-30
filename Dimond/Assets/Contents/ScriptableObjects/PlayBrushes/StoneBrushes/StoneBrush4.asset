@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 831693489ccc0485fbcf9e715357dc0f, type: 3}
+  m_Name: StoneBrush4
+  m_EditorClassIdentifier: 
+  brushId: 4
+  brushView: {fileID: 21300000, guid: 6b6747b321b334e448b307b33dc7b208, type: 3}
+  brushMask: {fileID: 21300000, guid: 00fe9604cfd86407e8e90ba2a5c750d8, type: 3}
+  type: 0
+  isFreeBrush: 1
+  brushPrice: 0

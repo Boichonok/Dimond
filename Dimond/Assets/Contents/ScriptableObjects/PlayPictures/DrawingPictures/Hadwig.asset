@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Hadwig
+  m_EditorClassIdentifier: 
+  pictureId: 7
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1620833461655046, guid: aa4e10c41b3754e88aab400a71aafb62,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 5bf52b17cc5ae43fab1698d82438d21e, type: 2}
+  - {fileID: 11400000, guid: b12bd5f5535a5494db1e76323cc2aff6, type: 2}
+  - {fileID: 11400000, guid: 74df15d95fde34e3c913fa5f4e19205e, type: 2}
+  - {fileID: 11400000, guid: ceb59910f08da43fc82c98c3ff058565, type: 2}
+  - {fileID: 11400000, guid: a84f8ce77eb6d4559b1ced4df216ad62, type: 2}
+  - {fileID: 11400000, guid: 9b14574d441f2497d896088bf0a0aef5, type: 2}
+  - {fileID: 11400000, guid: 103c3cfed0eac42a8ab3f0eb5d87507d, type: 2}
+  - {fileID: 11400000, guid: 6881e6a3de2a74a27b551999de2eb93e, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}

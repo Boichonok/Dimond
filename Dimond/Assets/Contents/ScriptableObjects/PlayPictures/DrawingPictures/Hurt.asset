@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bdc3e670954b459f8eff270a6a4ba2c, type: 3}
+  m_Name: Hurt
+  m_EditorClassIdentifier: 
+  pictureId: 0
+  material: 2
+  canChangeBackground: 1
+  picturePlayObject: {fileID: 1924363194095544, guid: 94d038dfe05894c9b9391305b643eaf8,
+    type: 2}
+  amountSectionsType:
+  - {fileID: 11400000, guid: 2922f465f0f2948e5a50d1eb07710823, type: 2}
+  - {fileID: 11400000, guid: 9ffa5d8a9d2e24fcebce8ee382e90351, type: 2}
+  - {fileID: 11400000, guid: 4da6f3635d0114ed3adda1a7d19ae479, type: 2}
+  - {fileID: 11400000, guid: 5dd072e7cd6e4447395094983f914367, type: 2}
+  - {fileID: 11400000, guid: c38ccd566bacd4519b3e32791410cc9a, type: 2}
+  brushes:
+  - {fileID: 11400000, guid: 5a8ff5242f42c4936b643e0611af68d6, type: 2}
